@@ -42,7 +42,7 @@ export default function Page() {
           rel="noopener noreferrer"
           className="underline text-blue-400 hover:text-blue-200"
         >
-          "Red apple" by Alin C.
+          &quot;Red apple&quot; by Alin C.
         </a>
         &nbsp;is licensed under&nbsp;
         <a
